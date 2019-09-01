@@ -7,4 +7,4 @@ Slides for individuals lectures
 
 [의학 유전학 파트3](https://docs.google.com/presentation/d/1yTDkxWUx1vni5jxW2oDoQ2raeCIGm5TlsgHKSUYKK-Q)
 
-[바이오의과학 세미나]()
+[바이오의과학 세미나 2019 가을학기](https://docs.google.com/presentation/d/1vTRVdBzsBkhqgHSvufoMJiGWqMVPvUnyBRd6N-Lop5U/edit?usp=sharing)
