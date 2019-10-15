@@ -9,13 +9,13 @@ Slides for individuals lectures
 [의학 유전학 파트3](https://docs.google.com/presentation/d/1yTDkxWUx1vni5jxW2oDoQ2raeCIGm5TlsgHKSUYKK-Q)
 
 ## 질병유전체 4주 특강
-[Human heredity and inheritance](https://docs.google.com/presentation/d/12m2CSx3XH4kjvSS7tm4qoucDQkfX1E--04TFEFwW1HA/edit?usp=sharing)[(Manolio et al. 2008)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831613/)
+[Human heredity and inheritance](https://docs.google.com/presentation/d/12m2CSx3XH4kjvSS7tm4qoucDQkfX1E--04TFEFwW1HA/edit?usp=sharing) [(Manolio et al. 2008)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831613/)
 
-[Genetic architecture]()[(Chaste et al. 2017)](https://www.annualreviews.org/doi/abs/10.1146/annurev-genom-083115-022647)
+[Genetic architecture]() [(Chaste et al. 2017)](https://www.annualreviews.org/doi/abs/10.1146/annurev-genom-083115-022647)
 
-[Sexual dimorphism in human disorders]()[(Khramtsova et al. 2018)](https://www.ncbi.nlm.nih.gov/pubmed/30581192)
+[Sexual dimorphism in human disorders]() [(Khramtsova et al. 2018)](https://www.ncbi.nlm.nih.gov/pubmed/30581192)
 
-[Haploinsufficiency in human disorders]()[(Lek et al. 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27535533/)
+[Haploinsufficiency in human disorders]() [(Lek et al. 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27535533/)
 
 
 
