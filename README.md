@@ -13,7 +13,7 @@ Slides for individuals lectures
 
 [Genetic architecture](https://docs.google.com/presentation/d/1YZ1Z5-X6chE-sQSFVr2QuFNs5H46iEH7HHWIAqn8tlc/edit?usp=sharing) [(Chaste et al. 2017)](https://www.annualreviews.org/doi/abs/10.1146/annurev-genom-083115-022647)
 
-[Sexual dimorphism in human disorders]() [(Khramtsova et al. 2018)](https://www.ncbi.nlm.nih.gov/pubmed/30581192)
+[Sexual dimorphism in human disorders](https://docs.google.com/presentation/d/1lEZq-zLJEu-Z-fRcWmrDxlY2Zyz2NSxvvHigeoLEiiA/edit?usp=sharing) [(Khramtsova et al. 2018)](https://www.ncbi.nlm.nih.gov/pubmed/30581192)
 
 [Haploinsufficiency in human disorders]() [(Lek et al. 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27535533/)
 
