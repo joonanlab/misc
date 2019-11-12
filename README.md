@@ -15,7 +15,7 @@ Slides for individuals lectures
 
 [Sexual dimorphism in human disorders](https://docs.google.com/presentation/d/1lEZq-zLJEu-Z-fRcWmrDxlY2Zyz2NSxvvHigeoLEiiA/edit?usp=sharing) [(Khramtsova et al. 2018)](https://www.ncbi.nlm.nih.gov/pubmed/30581192)
 
-[Haploinsufficiency in human disorders]() [(Lek et al. 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27535533/)
+[Haploinsufficiency in human disorders](https://docs.google.com/presentation/d/1DBszg51HpdA6EZfl0PG8654-zG2Uvjsd0Xw8nc_jLyw/edit?usp=sharing) [(Lek et al. 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27535533/)
 
 
 
