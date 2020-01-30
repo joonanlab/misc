@@ -8,7 +8,7 @@ Slides for individuals lectures
 
 [의학 유전학 파트3](https://docs.google.com/presentation/d/1yTDkxWUx1vni5jxW2oDoQ2raeCIGm5TlsgHKSUYKK-Q)
 
-## 질병유전체 4주 특강
+## 질병 유전체 4주 특강
 [Human heredity and inheritance](https://docs.google.com/presentation/d/12m2CSx3XH4kjvSS7tm4qoucDQkfX1E--04TFEFwW1HA/edit?usp=sharing) [(Manolio et al. 2008)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831613/)
 
 [Genetic architecture](https://docs.google.com/presentation/d/1YZ1Z5-X6chE-sQSFVr2QuFNs5H46iEH7HHWIAqn8tlc/edit?usp=sharing) [(Chaste et al. 2017)](https://www.annualreviews.org/doi/abs/10.1146/annurev-genom-083115-022647)
@@ -16,9 +16,3 @@ Slides for individuals lectures
 [Sexual dimorphism in human disorders](https://docs.google.com/presentation/d/1lEZq-zLJEu-Z-fRcWmrDxlY2Zyz2NSxvvHigeoLEiiA/edit?usp=sharing) [(Khramtsova et al. 2018)](https://www.ncbi.nlm.nih.gov/pubmed/30581192)
 
 [Haploinsufficiency in human disorders](https://docs.google.com/presentation/d/1DBszg51HpdA6EZfl0PG8654-zG2Uvjsd0Xw8nc_jLyw/edit?usp=sharing) [(Lek et al. 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27535533/)
-
-
-
-## 바이오의과학 세미나 2019 가을학기
-
-[1주차 인트로](https://docs.google.com/presentation/d/1vTRVdBzsBkhqgHSvufoMJiGWqMVPvUnyBRd6N-Lop5U/edit?usp=sharing)
